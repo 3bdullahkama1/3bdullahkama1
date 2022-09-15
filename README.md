@@ -1,6 +1,6 @@
 # Abdullah Kamal
 <a href="https://www.github.com/3bdullahkama1" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" alt="GitHub Badge" height="25"></a>&nbsp;
-<a href="mailto:abdallah10kamal@gmail.com@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail Badge" height="25"></a>&nbsp;
+<a href="mailto:abdallah10kamal@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail Badge" height="25"></a>&nbsp;
 <a href="https://www.linkedin.com/in/abdullah-kamal-ba9b3122b" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge" height="25"></a>&nbsp;
 <a href="https://twitter.com/3bdullahkama1" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter Badge" height="25"></a>&nbsp;
 <a href="https://www.facebook.com/profile.php?id=100081504112217" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook Badge" height="25"></a>&nbsp;
@@ -11,12 +11,12 @@ I'm an IT Engineer 🧑‍💻, able to build and handle Networks 🌐. And I ha
 ![Profile Views](https://komarev.com/ghpvc/?username=3bdullahkama1&theme=default&color=blue&style=flat&label=Profile+Views)
 
 ## About me
-🔭&nbsp;I’m currently working on **Study Software Development💻**
+🔭&nbsp;I’m currently working on **Study Software Development 💻**
 <br/>🎓&nbsp;Graduated in **Computers and AI at SU (but just 2024 😇)**
-<br/>🌱&nbsp;Learning about **Mobile Development📲 and Compatitiva Programming 👨‍💻🥇**
-<br/>💡&nbsp;I'm interested about **Build and troubleshoot Networks 🌐,  Mobile Application Development📲**
-<br/>💬&nbsp;Ask me about **Networks 🌐,  Mobile Development📲 and Compatitiva Programming 👨‍💻🥇**
-<br/>🤝&nbsp;I like to collaborate in **Open Source Projects🔓**
+<br/>🌱&nbsp;Learning about **Mobile Development 📲 and Compatitiva Programming 👨‍💻🥇**
+<br/>💡&nbsp;I'm interested about **Build and troubleshoot Networks 🌐,  Mobile Application Development 📲**
+<br/>💬&nbsp;Ask me about **Networks 🌐,  Mobile Development 📲 and Compatitiva Programming 👨‍💻🥇**
+<br/>🤝&nbsp;I like to collaborate in **Open Source Projects 🔓**
 <br/>📫&nbsp;Reach me [abdallah10kamal@gmail.com](mailto:abdallah10kamal@gmail.com)
 
 ## Tech Stack
