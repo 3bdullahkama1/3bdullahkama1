@@ -22,6 +22,7 @@ I'm an Network Engineer 🧑‍💻, able to build and handle Networks 🌐. And
 ## Tech Stack
 <img src="https://img.shields.io/badge/Android-05122A?style=flat&logo=android" alt="android Badge" height="25">&nbsp;
 <img src="https://img.shields.io/badge/Bash-05122A?style=flat&logo=gnu-bash" alt="bash Badge" height="25">&nbsp;
+<img src="https://img.shields.io/badge/Docker-05122A?style=flat&logo=docker" alt="docker Badge" height="25">&nbsp;
 <img src="https://img.shields.io/badge/C++-05122A?style=flat&logo=c%2B%2B&" alt="c++ Badge" height="25">&nbsp;
 <img src="https://img.shields.io/badge/Dart-05122A?style=flat&logo=dart" alt="dart Badge" height="25">&nbsp;
 <img src="https://img.shields.io/badge/Flutter-05122A?style=flat&logo=flutter" alt="flutter Badge" height="25">&nbsp;
